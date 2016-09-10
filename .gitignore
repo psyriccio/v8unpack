@@ -15,3 +15,7 @@ Makefile
 /obj
 /bin
 gmon.out
+/scripts/test.epf
+/scripts/v8unpack
+/scripts/!unpack.sh
+
